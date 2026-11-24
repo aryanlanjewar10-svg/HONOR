@@ -1,0 +1,8 @@
+decorators in python
+keywords argument in python
+in java when are 2 obj called the same obj in the same object
+@property
+class and constructor
+inheritance
+Abstraction
+runtime polymorphism

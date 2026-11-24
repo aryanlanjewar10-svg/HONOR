@@ -1,0 +1,13 @@
+thread pull executors
+asyncio
+decorators
+multi threading
+py:
+	shallow copy vs deep copy
+	reval vs flatten
+memory allocation : row major form 
+		    column major form
+np.add.outer(arr1,arr2)
+np.add.accumulate(arr)
+
+numba

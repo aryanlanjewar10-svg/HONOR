@@ -1,0 +1,39 @@
+DS revise
+----
+AI -> Artifical Inteligence vs Simple programs
+simple programs-> input+logic==>output
+AI-> input+output==>preditct the logic
+predict the logic ==> brain the logic
+brain==> model
+----
+llm cases :
+    input-output-types
+    known input and known output (supervised data / prediction)
+    unknown input and unkown output
+    clusted data
+----
+
+supervised learning:
+    catagorised data pe use hota he
+unsupervised learning:
+    uncatagorised data pe use hota he
+----
+linear regression
+data science vale data ko equation ke form me banate he
+
+y ~ x1 + x2 ==> (+) jb direct input ka direct output aaega and base is the first value form input value
+y ~ x1*x2 ==> all combination (x1,x2,x3,....)
+y ~ x1 + x2 + 0 ==> no base
+y ~ x1:x2  ==> integration of 2 values
+
+
+----
+patsy
+%pip install patsy
+import patsy
+y ~ x + c 
+%pip install statsmodels   
+from statsmodels.api import OLS
+from statsmodels.formula.api import OLS
+%pip install scikit-learn
+from sklearn.linear_model import LinearRegresion
